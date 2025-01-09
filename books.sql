@@ -1,8 +1,8 @@
 -- Create the Library database
-CREATE DATABASE LibraryDB;
+CREATE DATABASE librarydb;
 
 -- Switch to the LibraryDB database
-USE LibraryDB;
+USE librarydb;
 
 -- Create Books table
 CREATE TABLE Books (
